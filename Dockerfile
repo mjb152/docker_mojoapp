@@ -14,6 +14,6 @@ ADD . /srv/www
 
 EXPOSE 8080
 
-WORKDIR /srv/www/my_app
+WORKDIR /srv/www/webapp
 
 CMD hypnotoad -f script/webapp
