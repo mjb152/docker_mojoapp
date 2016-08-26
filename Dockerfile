@@ -16,4 +16,4 @@ EXPOSE 8080
 
 WORKDIR /srv/www/my_app
 
-CMD hypnotoad -f script/my_app
+CMD hypnotoad -f script/webapp
